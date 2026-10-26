@@ -6,3 +6,5 @@ The component for calculating the pixel's RGB components using the averages of n
 The component for converting the input data from serial to 3x3 parallel, using 2 RAM FIFOs (stp.vhd).
 
 The component for controlling the state of the sub-modules (FSM.vhd).
+
+The interface I used for the communication between the programmable logic (PL) and the processing system (PS) is AXI4-stream.
