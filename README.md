@@ -1,7 +1,5 @@
 # Debayering-filter
-Implementation of a Debayering filter in VHDL for a Zynq SoC FPGA
-
-For the implementation of the Debayering filter (Debayering.vhd) using an RTL architecture, I created 3 structural modules:
+Implementation of a Debayering filter in VHDL for a Zynq SoC FPGA using an RTL architecture, with 3 structural modules:
 
 The component for calculating the pixel's RGB components using the averages of neighboring pixels (Mean.vhd).
 
